@@ -1,0 +1,32 @@
+.sideNav-outer-container {
+    width: 350px;
+    height: 100%;
+    background-color: #1a2930;
+    color: white;
+}
+
+.sideNav-inner-nav {
+    margin: auto;
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+}
+.sideNav-inner-nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.sideNav-inner-nav li,
+.sideNav-inner-nav ul
+ {
+    list-style-type: none;
+    margin: 5px 0 5px 0;
+    padding: 0 0 0 0;
+}
+/** 
+#c5c1c0 gray
+#0a1612 black
+#1a2930 blue'ish
+#f7ce3e yellow
+
+*/
