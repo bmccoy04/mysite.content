@@ -1,5 +1,5 @@
 import React from 'react';
-import './SideNav.css';
+import '../Styles/SideNav.css';
 import PortraitCircle from '../Components/PortraitCircle';
 
 const SideNav = () => (

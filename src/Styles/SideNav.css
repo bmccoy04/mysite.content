@@ -1,8 +1,9 @@
 .sideNav-outer-container {
-    width: 350px;
+    width: 300px;
     height: 100%;
     background-color: #1a2930;
     color: white;
+    float: left;
 }
 
 .sideNav-inner-nav {
@@ -20,7 +21,7 @@
 .sideNav-inner-nav ul
  {
     list-style-type: none;
-    margin: 5px 0 5px 0;
+    margin: 10px 0 10px 0;
     padding: 0 0 0 0;
 }
 /** 

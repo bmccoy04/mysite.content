@@ -1,0 +1,5 @@
+.maincontent-maincontainer {
+    display: flex !important;
+    margin-left: 300px;
+    height: 100%;
+}

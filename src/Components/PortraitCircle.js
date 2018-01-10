@@ -1,5 +1,5 @@
 import React from 'react';
-import './PortraitCircle.css';
+import '../Styles/PortraitCircle.css';
 
 const PortraitCircle = (imageUrl) => (
     <div className = "circle-conatiner">

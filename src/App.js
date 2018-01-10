@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './Styles/App.css';
 import SideNav from './Containers/SideNav';
+import MainContent from './Containers/MainContent';
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
       // </div>
       <div className="app-main-container">
         <SideNav></SideNav>
+        <MainContent></MainContent>
       </div>
     );
   }
