@@ -1,5 +1,27 @@
 .experience-main-container {
     height: 100vh;
     width: 100%;
-    background-color: red;
+    background-color: #c5c1c0;
+    border-top-style: solid;
+    border-top-width: .01em; 
+    border-top-color: #1a2930;
+}
+.experience-content-wrapper {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.experience-my, 
+.experience-job{
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+.experience-my{
+    color: #1a2930;
+}
+
+.experience-mccoy{
+
 }
