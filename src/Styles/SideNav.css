@@ -13,6 +13,7 @@
     padding-top: 50px;
     color: white;
     text-align: center;
+    font-size: 17pt;
 }
 .sideNav-inner-nav a {
     text-decoration: none;
@@ -23,7 +24,7 @@
 .sideNav-inner-nav ul
  {
     list-style-type: none;
-    margin: 10px 0 10px 0;
+    margin: 13px 0 13px 0;
     padding: 0 0 0 0;
 }
 /** 

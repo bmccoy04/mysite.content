@@ -17,8 +17,8 @@ class App extends Component {
       //   </p>
       // </div>
       <div className="app-main-container">
-        <SideNav></SideNav>
         <MainContent></MainContent>
+        <SideNav></SideNav>
       </div>
     );
   }
