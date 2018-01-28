@@ -2,7 +2,13 @@
   height: 100vh;
   background-color: #f1f1f1;
 }
+.yellow-font {
+    color:  #d6b437;
+}
 
+.blue-font {
+  color: #033750;
+}
 /* .App {
   text-align: center;
 }

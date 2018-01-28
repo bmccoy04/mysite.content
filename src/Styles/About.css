@@ -9,6 +9,11 @@
     margin-left: 25px;
 }
 
+.about-address-container {
+    margin-top: 8px;
+    font-size: 13pt;
+    font-weight: bold;
+}
 .about-bryan, 
 .about-mccoy{
     font-size: 60pt;
