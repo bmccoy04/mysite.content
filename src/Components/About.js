@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Styles/About.css'
 import FontAwesome from 'react-fontawesome';
-
+// https://blackrockdigital.github.io/startbootstrap-resume/
 const About = () => (
     <div className="about-main-container">
         <div className="about-content-wrapper">
