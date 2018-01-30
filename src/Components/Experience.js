@@ -1,6 +1,11 @@
 import React from 'react';
-import '../Styles/Experience.css'
+import '../Styles/Experience.css';
+import Job from './Job';
+import JobsList from '../Data/JobsList';
 
+const jobs = JobsList.map(x => 
+    <Job description={x.description} title={x.title} date={x.date} location={x.location}/>,
+);
 const Experience = () => (
     <div className="experience-main-container">
         <div className="experience-content-wrapper">
@@ -13,7 +18,7 @@ const Experience = () => (
                 I write code... Some good, some not.
             </div>
             <div>
-                * Some Circles that link to my stuff *
+                {jobs}
             </div>
         </div>
     </div>
