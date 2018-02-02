@@ -1,0 +1,16 @@
+.job-content-container {
+    margin: 5px 5px 5px 5px;
+}
+
+.job-title-container {
+    float: left;
+    width: 75%;
+}
+
+.job-date-container {
+    text-align: right;
+}
+
+.clear-fix {
+    clear: both;
+}
